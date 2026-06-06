@@ -274,6 +274,9 @@ Tracking retractions as a window into the scientific process
 [Artigo](https://artigopapers.io/home/trending)
 Our short-term goal is to provide a scene where scientific papers can be searched, read, discussed, and annotated by any person be it either the world's best expert or an undergraduate student. 
 
+[Spraay x402 Gateway](https://docs.spraay.app/#cat-research)
+x402 payment API for AI agents with 23 research endpoints: OpenAlex (250M papers), Crossref (150M works), arXiv preprints, PubMed (36M biomedical papers), PubChem compound/similarity/bioactivity, and US Census/Data.gov. Pay-per-call in USDC, no API keys. [GitHub](https://github.com/plagtech)
+
 # Datasets, KGs ,and Corpus
 ### [ Computer Science Ontology (CSO),14K topics and over 159K relationships](http://cso.kmi.open.ac.uk/home)
  The Computer Science Ontology (CSO) is a large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm on the Rexplore dataset, which consists of about 16 million publications, mainly in the field of Computer Science. The Klink-2 algorithm combines semantic technologies, machine learning, and knowledge from external sources to automatically generate a fully populated ontology of research areas. Some relationships were also revised manually by experts during the preparation of two ontology-assisted surveys in the field of Semantic Web and Software Architecture. The main root of CSO is Computer Science, however, the ontology includes also a few secondary roots, such as Linguistics, Geometry, Semantics, and so on.
